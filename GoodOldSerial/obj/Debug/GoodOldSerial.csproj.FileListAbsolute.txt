@@ -1,0 +1,7 @@
+C:\Users\emile\Documents\1School 2018\Satttt\Programming\GoodOldSerial\GoodOldSerial\bin\Debug\GoodOldSerial.exe.config
+C:\Users\emile\Documents\1School 2018\Satttt\Programming\GoodOldSerial\GoodOldSerial\bin\Debug\GoodOldSerial.exe
+C:\Users\emile\Documents\1School 2018\Satttt\Programming\GoodOldSerial\GoodOldSerial\bin\Debug\GoodOldSerial.pdb
+C:\Users\emile\Documents\1School 2018\Satttt\Programming\GoodOldSerial\GoodOldSerial\obj\Debug\GoodOldSerial.csprojAssemblyReference.cache
+C:\Users\emile\Documents\1School 2018\Satttt\Programming\GoodOldSerial\GoodOldSerial\obj\Debug\GoodOldSerial.csproj.CoreCompileInputs.cache
+C:\Users\emile\Documents\1School 2018\Satttt\Programming\GoodOldSerial\GoodOldSerial\obj\Debug\GoodOldSerial.exe
+C:\Users\emile\Documents\1School 2018\Satttt\Programming\GoodOldSerial\GoodOldSerial\obj\Debug\GoodOldSerial.pdb
