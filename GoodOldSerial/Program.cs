@@ -22,7 +22,7 @@ namespace GoodOldSerial
 
         private static void basicSetup()
         {
-            Console.WriteLine("Port?");
+            Console.WriteLine("What port? (eg.: COM7)");
             string port = Console.ReadLine();
             Console.WriteLine("Baud Rate?");
             int rate = Convert.ToInt32(Console.ReadLine());
