@@ -1,7 +1,0 @@
-C:\Users\emile\Documents\1School 2018\Satttt\Programming\GoodOldSerial\GoodOldSerial\bin\Release\GoodOldSerial.exe.config
-C:\Users\emile\Documents\1School 2018\Satttt\Programming\GoodOldSerial\GoodOldSerial\bin\Release\GoodOldSerial.exe
-C:\Users\emile\Documents\1School 2018\Satttt\Programming\GoodOldSerial\GoodOldSerial\bin\Release\GoodOldSerial.pdb
-C:\Users\emile\Documents\1School 2018\Satttt\Programming\GoodOldSerial\GoodOldSerial\obj\Release\GoodOldSerial.csproj.CoreCompileInputs.cache
-C:\Users\emile\Documents\1School 2018\Satttt\Programming\GoodOldSerial\GoodOldSerial\obj\Release\GoodOldSerial.exe
-C:\Users\emile\Documents\1School 2018\Satttt\Programming\GoodOldSerial\GoodOldSerial\obj\Release\GoodOldSerial.pdb
-C:\Users\emile\Documents\1School 2018\Satttt\Programming\GoodOldSerial\GoodOldSerial\obj\Release\GoodOldSerial.csprojAssemblyReference.cache

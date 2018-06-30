@@ -1,39 +1,22 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Text;
 using System.Threading.Tasks;
-using System.IO.Ports;
+using System.Windows.Forms;
 
 namespace GoodOldSerial
 {
-    internal class Program
+    static class Program
     {
-        public static SerialPort serial;
-
-        private static void Main(string[] args)
+        /// <summary>
+        /// The main entry point for the application.
+        /// </summary>
+        [STAThread]
+        static void Main()
         {
-            basicSetup();
-            while (true)
-            {
-                serial.WriteLine(Console.ReadLine());
-            }
-        }
-
-        private static void basicSetup()
-        {
-            Console.WriteLine("What port? (eg.: COM7)");
-            string port = Console.ReadLine();
-            Console.WriteLine("Baud Rate?");
-            int rate = Convert.ToInt32(Console.ReadLine());
-            serial = new SerialPort(port, rate);
-            serial.Open();
-            serial.DataReceived += dataReceive;
-        }
-
-        private static void dataReceive(object obj, SerialDataReceivedEventArgs e)
-        {
-            Console.WriteLine(serial.ReadLine());
+            Application.EnableVisualStyles();
+            Application.SetCompatibleTextRenderingDefault(false);
+            Application.Run(new Form1());
         }
     }
 }
